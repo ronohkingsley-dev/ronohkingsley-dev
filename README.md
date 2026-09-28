@@ -1,16 +1,22 @@
-## Hi there 👋
+### Hi there, I'm Kingsley 👋
 
-<!--
-**ronohkingsley-dev/ronohkingsley-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a builder and engineering student passionate about bridging the physical and digital worlds—combining mechanical design principles with modern web development and digital solutions.
+💻 Tech Stack & Tools
+Web Development & Cloud: JavaScript, HTML/CSS, Vercel, Firebase
 
-Here are some ideas to get you started:
+Payment & APIs: Paystack, IntaSend
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Engineering & Design: CAD Software, Circuit Theory, Thermodynamics Analysis
+
+Version Control: Git, GitHub
+
+🚀 Featured Projects
+Duma POS: A digital point-of-sale solution and shop catalog designed for modern businesses, featuring seamless payment gateway integrations.
+
+Lazari Developers Co.: A collaborative hub focused on building innovative software tools and digital products.
+
+📊 GitHub Stats
+📫 Let's Connect
+GitHub: @ronohkingsley-dev
+
+Web: dumapos.co.ke
