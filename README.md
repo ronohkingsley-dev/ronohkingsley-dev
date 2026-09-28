@@ -2,7 +2,7 @@
 
 Welcome to my GitHub profile! I'm a builder and engineering student passionate about bridging the physical and digital worlds—combining mechanical design principles with modern web development and digital solutions.
 
-##💻 Tech Stack & Tools
+💻 Tech Stack & Tools
 Web Development & Cloud: JavaScript, HTML/CSS, Vercel, Firebase
 
 Payment & APIs: Paystack, IntaSend
@@ -11,7 +11,7 @@ Engineering & Design: CAD Software, Circuit Theory, Thermodynamics Analysis
 
 Version Control: Git, GitHub
 
-##🚀 Featured Projects
+🚀 Featured Projects
 Duma POS: A digital point-of-sale solution and shop catalog designed for modern businesses, featuring seamless payment gateway integrations.
 
 Lazari Developers Co.: A collaborative hub focused on building innovative software tools and digital products.
