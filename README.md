@@ -21,3 +21,5 @@ Lazari Developers Co.: A collaborative hub focused on building innovative softwa
 
 - **GitHub:** [@ronohkingsley-dev](https://github.com/ronohkingsley-dev)
 - **Web:** [dumapos.co.ke](https://dumapos.co.ke)
+
+![Visitor Count](https://profile-counter.glitch.me/ronohkingsley-dev/count.svg)
