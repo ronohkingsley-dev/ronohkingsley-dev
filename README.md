@@ -17,7 +17,7 @@ Duma POS: A digital point-of-sale solution and shop catalog designed for modern 
 Lazari Developers Co.: A collaborative hub focused on building innovative software tools and digital products.
 
 📊 GitHub Stats
-📫 Let's Connect
-GitHub: @ronohkingsley-dev
+### 📫 Let's Connect
 
-Web: dumapos.co.ke
+- **GitHub:** [@ronohkingsley-dev](https://github.com/ronohkingsley-dev)
+- **Web:** [dumapos.co.ke](https://dumapos.co.ke)
