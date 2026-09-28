@@ -24,3 +24,5 @@ Lazari Developers Co.: A collaborative hub focused on building innovative softwa
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=ronohkingsley-dev&color=blue&style=flat-square&label=PROFILE+VIEWS)
+
+![Visitor Count](https://profile-counter.glitch.me/ronohkingsley-dev/count.svg)
